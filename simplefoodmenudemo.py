@@ -6,7 +6,7 @@ if 'hasFood' not in st.session_state:
     st.session_state.hasFood = 0
 
 
-st.header("Welcome Temerity Food Menu Demo")
+st.header("Welcome to Temerity Food Menu Demo")
 
 readme = st.checkbox("readme first")
 
